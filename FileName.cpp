@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS  //Having error with time so GPT asked to use this 
+﻿#define _CRT_SECURE_NO_WARNINGS  
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
@@ -525,13 +525,12 @@ void aboutHospital() {
     system("cls");
 }
 
-
-// exit function unchanged
 void exitProgram() {
     system("cls");
     cout << "\n\n\t\t\t\t\tGOOD BYE :)\n";
     cout << "\t\t\t\t\t-----------------------------------------------\n";
     system("pause");
 }
+
 
 
