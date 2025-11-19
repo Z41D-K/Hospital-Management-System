@@ -1,0 +1,4 @@
+Welcome to PAF Hospital
+Address: XYZ Kachery Road 
+Phone: +91-123456789
+Departments: Cardiology, Neurology, Emergency
