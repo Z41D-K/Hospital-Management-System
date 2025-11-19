@@ -36,5 +36,4 @@ This is a simple hospital management system built in **C++**. It combines a **co
 
 ---
 
-## Project Structure
 
