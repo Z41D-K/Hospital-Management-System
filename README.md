@@ -1,7 +1,7 @@
 # Hospital-Management-System
 # 🏥 Hospital Management System
 
-This is a simple hospital management system built in **C++**. It combines a **console-based menu** with **SFML-based welcome and goodbye screens** to make the experience a bit more interactive. The system helps manage patient records, diagnoses, discharges, and billing in a simple and organized way.
+This is a simple hospital management system built in **C++**. It combines a **console-based menu** with **SFML-based welcome and goodbye screens** to make the experience a bit more interactive. The system helps manage patient records, diagnoses, discharges, and billing in a simple and organized way.Using oops basic concepts and implementing some basic secuirty features.
 
 ---
 
@@ -35,5 +35,7 @@ This is a simple hospital management system built in **C++**. It combines a **co
 - **Standard Libraries** – for input/output, strings, time, and exception handling.
 
 ---
+
+
 
 
